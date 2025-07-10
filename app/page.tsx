@@ -1,9 +1,3 @@
-
-
-
-
-
-
 import ServiceCard from '../components/ServiceCard';
 import TestimonialCard from '../components/TestimonialCard';
 import { FaHome, FaBuilding, FaChartBar, FaPhone } from 'react-icons/fa';
